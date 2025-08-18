@@ -50,7 +50,7 @@ button {
     
 }
 p {
-    opacity: 0,2;
+    opacity: 1;
 }
 
 
@@ -65,3 +65,4 @@ p {
     margin: 2px;
     box-sizing: border-box;
 }    
+
