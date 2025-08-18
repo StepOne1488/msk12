@@ -1,0 +1,53 @@
+    body{
+    background-image: url(img/i.webp);
+        text-align: center;
+
+}
+h1,h2,h4 {
+    text-align: center;
+    color: black;
+    font-style: italic;
+    margin-top: 20px;
+    font-size:190%;
+    font-weight: 900;
+}
+
+
+a{
+    text-align: center;
+    color: black;
+    font-style: italic;
+    margin-top: 20px;
+    font-size:190%;
+    text-decoration: none; 
+     
+}
+.button {
+    display: inline-block;
+    background-color: #aef0c4;
+    text-decoration: none;
+    color: #524f4e;
+    border-radius: 50px;
+    width: 30%;
+    font-size: 16px;
+}
+.img {
+    text-align: center;
+    height:100000%
+}
+
+
+img{
+   width: 100%; 
+   border-radius: 10px 10px 0 0;
+   margin-top: 10px;
+}
+
+button {
+    border: none;
+    border-radius: 10px;
+}
+
+p {
+    opacity: 0;
+}
