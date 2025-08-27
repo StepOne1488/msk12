@@ -1,0 +1,28 @@
+    body{
+    background-image: url(img/1221.webp);
+        text-align: center;
+
+}
+
+a{
+    color: black;
+    font-style: italic;
+    margin: 20px ;
+    font-size:200%;
+    text-decoration: none; 
+    background-color: white;
+     
+}
+
+.windows {
+    display: inline;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 1% 15%;
+    opacity: 0.9;
+    
+}
+
+p {
+    opacity: 0;
+}
